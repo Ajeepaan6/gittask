@@ -22,5 +22,9 @@ public class CompanyInfo {
 		c.companyName(9393);
 		c.companyName("CTS");
 		c.companyName(7708709816l, "Coimbatore");
+		c.companyName();
+		c.companyName(1393);
+		c.companyName("EPAM");
+		c.companyName(7708709816l, "Bangalore");
 	}
 }
